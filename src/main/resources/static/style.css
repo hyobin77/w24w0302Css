@@ -1,0 +1,17 @@
+div{
+        background-color: #FD8A8A;
+      }
+.song { background-color: #384B70;
+            padding: 20px;
+            margin: 20px;
+    }
+li{
+    list-style-type: none;
+  }
+li:nth-child(even){
+            font-weight: bold;
+ }
+
+ li>div:hover{
+    background-color: #F1F785;
+ }
